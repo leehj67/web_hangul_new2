@@ -1,5 +1,8 @@
 /* src/index.css */
 @import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* (옵션) 기본 바탕/글자색 */
 :root { color-scheme: light; }
