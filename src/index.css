@@ -1,0 +1,6 @@
+/* src/index.css */
+@import "tailwindcss";
+
+/* (옵션) 기본 바탕/글자색 */
+:root { color-scheme: light; }
+body { background: #fff7ed; color: #1f2937; }
